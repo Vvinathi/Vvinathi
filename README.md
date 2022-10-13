@@ -20,7 +20,7 @@
 <div align="right">
 <p>Connect with me on👇
 <div> <a href="https://hashnode.com/@vinathi17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="26" height="26" /></a> 
-<a href="[www.linkedin.com/in/vinathi-vissapragada-67427123a](https://www.linkedin.com/in/vinathi-vissapragada-67427123a/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="26" height="26" /></a> 
-<a href=[https://twitter.com/vv_writes](https://twitter.com/vv_writes)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="26" height="26" /></a></p></div>
+ <a href="https://www.linkedin.com/in/vinathi-vissapragada-67427123a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="26" height="26" /></a>
+<a href="https://twitter.com/vv_writes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="26" height="26" /></a></p></div>
 
 
