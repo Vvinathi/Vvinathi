@@ -6,7 +6,7 @@
 
 <h3> A little about me <img src="https://emojis.slackmojis.com/emojis/images/1643515332/13504/meow_eyespout.png?1643515332" width="20"/></h3>
 <p>- I'm a computer science student who enjoys learning new things.<br>
-- I'm now working on front-end development.<br> 
+- I'm now working on my web3 and front-end development skills.<br> 
 - I'm interested in learning  new technologies, and I love writing.</p>
 <div align="center">
 <h4>I work with,</h4>
