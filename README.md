@@ -14,6 +14,8 @@
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-3a87ad?style=flat-square&logo=css3&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1" />
+  <img alt="solidity" src="https://img.shields.io/badge/-Solidity-8f8f8f?style=flat-square&logo=solidity&logoColor=white" />
   
 </p>
 </div>
